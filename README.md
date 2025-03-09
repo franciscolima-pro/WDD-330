@@ -7,6 +7,9 @@
 
  - https://byui-cse.github.io/wdd330-ww-course/week01/team.html
 
+### Trello and Netlifly app links:
+ - https://trello.com/b/ZoxT9c4O/sleep-outside-team
+
  - https://sleepoutsidewdd.netlify.app/
 
 ### Prerequisites
